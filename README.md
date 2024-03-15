@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of what this project does and who it's for.
+A simple library to get platform information like name, useragent and features
 
 ## Installation 
 

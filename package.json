@@ -1,6 +1,6 @@
 {
   "name": "js-platform-info",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a simple script to get platfrom information ",
   "main": "dist/index.js",
   "scripts": {
