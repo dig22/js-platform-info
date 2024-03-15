@@ -73,6 +73,10 @@ class PlatformInfo {
             : /Firefox\//.test(PlatformInfo.ua)
             ? BrowserNames.FIREFOX
             : BrowserNames.OTHER;
+
+    static safari = PlatformInfo.browserName === BrowserNames.SAFARI;
+    static chrome = PlatformInfo.browserName === BrowserNames.CHROME;
+    static firefox = PlatformInfo.browserName === BrowserNames.FIREFOX;
 }
 
 export { PlatformInfo };

@@ -1,6 +1,6 @@
 {
   "name": "js-platform-info",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "a simple script to get platform information ",
   "main": "dist/index.js",
   "scripts": {
@@ -11,7 +11,8 @@
   "keywords": [
     "platform",
     "info",
-    "web"
+    "web", 
+    "browserName"
   ],
   "author": "dig22 - Digvijay Solanki",
   "license": "MIT",
