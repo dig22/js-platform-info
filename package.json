@@ -1,6 +1,6 @@
 {
   "name": "js-platform-info",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a simple script to get platfrom information ",
   "main": "dist/index.js",
   "scripts": {
@@ -15,6 +15,10 @@
   ],
   "author": "dig22 - Digvijay Solanki",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dig22/js-platform-info.git"
+  },
   "devDependencies": {
     "@babel/core": "^7.24.0",
     "@babel/preset-env": "^7.24.0",
