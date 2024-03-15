@@ -1,4 +1,4 @@
-# Project Title
+# JS Platform Info
 
 A simple library to get platform information like name, useragent and features
 
