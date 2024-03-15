@@ -28,6 +28,7 @@ jobs:
       run: npm test
 
     - name: Publish to NPM
+      environment: production
       run: npm publish
       env:
         NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
