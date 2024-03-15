@@ -1,5 +1,5 @@
 import { describe } from 'node:test';
-import { PlatformInfo } from '../index';
+import { PlatformInfo } from '../src/index';
 
 describe('PlatformInfo', () => {
     it('Check for environment node', () => {
